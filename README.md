@@ -28,4 +28,4 @@
 
 ## 🎨 Design
 ![난너없이 표지](https://github.com/MSG-Mirim-Study-Group/2024-WithoutU-Front/assets/129273224/35c4c658-e1ba-40f5-b92b-2e06fe4a0be0)
-![질문화면](https://github.com/MSG-Mirim-Study-Group/2024-WithoutU-Front/assets/129273224/9bc7160a-5cc5-4b2c-993a-2732dff18c9e)
+<!--![질문화면](https://github.com/MSG-Mirim-Study-Group/2024-WithoutU-Front/assets/129273224/9bc7160a-5cc5-4b2c-993a-2732dff18c9e)-->
